@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "files.associations": {
+        "avl_node.h": "c",
+        "assert.h": "c",
+        "time.h": "c",
+        "stdlib.h": "c"
+    }
+}
